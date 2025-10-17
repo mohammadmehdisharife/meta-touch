@@ -1,6 +1,6 @@
 CC = gcc
-TARGET = meta-cat
-SRC = meta-cat.c
+TARGET = meta-touch
+SRC = meta-touch.c
 
 all: $(TARGET)
 
